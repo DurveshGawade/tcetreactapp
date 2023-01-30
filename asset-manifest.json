@@ -1,0 +1,15 @@
+{
+  "main.css": "//tcetreactapp/static/css/main.8e083ce8.chunk.css",
+  "main.js": "//tcetreactapp/static/js/main.dc45ff8d.chunk.js",
+  "main.js.map": "//tcetreactapp/static/js/main.dc45ff8d.chunk.js.map",
+  "static/js/1.3e3c3eb5.chunk.js": "//tcetreactapp/static/js/1.3e3c3eb5.chunk.js",
+  "static/js/1.3e3c3eb5.chunk.js.map": "//tcetreactapp/static/js/1.3e3c3eb5.chunk.js.map",
+  "static/js/2.ff813772.chunk.js": "//tcetreactapp/static/js/2.ff813772.chunk.js",
+  "static/js/2.ff813772.chunk.js.map": "//tcetreactapp/static/js/2.ff813772.chunk.js.map",
+  "runtime~main.js": "//tcetreactapp/static/js/runtime~main.0545ef05.js",
+  "runtime~main.js.map": "//tcetreactapp/static/js/runtime~main.0545ef05.js.map",
+  "static/css/main.8e083ce8.chunk.css.map": "//tcetreactapp/static/css/main.8e083ce8.chunk.css.map",
+  "index.html": "//tcetreactapp/index.html",
+  "precache-manifest.9373363f5b4aa07360812dfb569ca44b.js": "//tcetreactapp/precache-manifest.9373363f5b4aa07360812dfb569ca44b.js",
+  "service-worker.js": "//tcetreactapp/service-worker.js"
+}
